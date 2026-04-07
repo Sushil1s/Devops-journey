@@ -1,0 +1,9 @@
+{
+	"name": "adf-ed-resource",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "85164857-752e-4c80-a84b-39e06f63f21d",
+		"tenantId": "30e7b32c-ebff-4a7e-b025-5c45fe2ac2b9"
+	}
+}
